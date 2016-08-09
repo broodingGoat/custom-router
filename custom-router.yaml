@@ -15,7 +15,7 @@ objects:
     source:
       contextDir: custom-router
       git:
-        uri: https://gitlab-occs.devops.amgen.com/platform/custom-router.git
+        uri: https://github.com/broodingGoat/custom-router.git
       type: Git
     strategy:
       dockerStrategy:
